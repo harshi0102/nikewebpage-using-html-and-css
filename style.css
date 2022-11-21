@@ -1,0 +1,233 @@
+*{
+    padding:0px;
+    margin: 0px;
+    
+    background-color: white;
+    
+}
+a, li, button, .text1,.text2, .text3, .text4, .text5, .text6, .text7{
+    /* font-family: sans-serif; */
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    background-color: transparent;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+    
+}
+.header-icon-nike{
+    padding: 0px 20px;
+    width: 60px
+}
+.header-nav-ul-li{
+    display: inline-block;
+    padding: 0px 10px;
+}
+a:hover{
+    color: #FF6600;
+}
+.header-button{
+    border-right: auto;
+    border: none;
+    padding: 6px 20px;
+    border-radius: 30px;
+    color: white;
+    background-color: #FF6600;
+    font-weight: normal;
+    font-size: 16px;
+    font-weight: 520;
+}
+.header-button:hover{
+    color:white;
+    background-color: black;
+
+}
+.header-button-a{
+    padding: 0px 20px;
+}
+/* .hero-img{
+    position: relative;
+    
+    left: 45%;
+    width: 700px;
+} */
+
+.hero-text{
+    font-size: 100px;
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    font-weight: 1000;
+    background-color: transparent;
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: italic;    
+}
+.text1{
+    text-align: center;
+}
+.div-1-button-a{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    padding: 15px 0px;
+}
+.div-1-button{
+    border: none;
+    padding: 6px 20px;
+    border-radius: 30px;
+    color: white;
+    background-color: #FF6600;
+    font-weight: normal;
+    font-size: 16px;
+    font-weight: 520;
+}
+.div-1-button:hover{
+    color: white;
+    background-color: black;
+}
+.text2, .text5,.text6{
+    padding: 20px 20px;
+    font-size: 26px;   
+}
+.div-1-table{
+    height: 0px;
+    width: 100%;
+}
+.text3, .text4{
+    text-align: left;
+    background-color: transparent;
+}
+.div-featured1-a{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: left;
+    padding: 10px 0px;
+    background-color: transparent;
+}
+.div-featured1-button{
+    border: none;
+    padding: 6px 20px;
+    border-radius: 30px;
+    color: white;
+    background-color: #FF6600;
+    font-weight: normal;
+    font-size: 16px;
+    font-weight: 520;
+}
+.div-featured1{
+    position: relative;
+    top: -140px;
+    left: 40px;
+    background-color: transparent;
+}
+.div-2-table{
+    width: 100%;
+    margin-top: 0px;
+    height: 0px;
+}
+.div-featured1-button:hover{
+    color: white;
+    background-color: black;
+}
+.figure1{
+   height: 615px;
+}
+.div-3-table{
+    width: 100%;
+    margin-top: 0px;
+    height: 0px;
+    padding: 0px 50px;
+}
+.figure2{
+    height: 520px;
+}
+.div-featured2{
+    position: relative;
+    top: -70px;
+    left: 30px;
+    background-color: transparent;
+}
+footer{
+    background-color: dimgray;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-img-li{
+    display: inline-block;
+    background-color: transparent;
+}
+.icon-footer-ul{
+    background-color: transparent;
+    text-align: center;
+
+}
+.footer-icon-img{
+    background-color: transparent;
+}
+.footer-icon-a{
+    background-color: transparent;
+}
+.text7{
+    background-color: transparent;
+
+    text-align: center;
+    padding: 10px 0px  ;
+}
+    
+
+.footer-icon-img{
+    width: 25px;
+    padding: 0px 10px;
+    background-color: transparent;
+}
+.footer-nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent;
+    align-items: center;
+}
+.footer-nav-ul{
+    display: flex;
+    background-color: transparent;
+}
+.footer-nav-li{
+    display: inline-block;
+    padding: 0px 10px;
+    background-color: transparent;
+    
+}
+.footer-ul{
+   list-style: none;
+   padding: 50px 50px;
+   background-color: transparent;
+}
+.footer-li{
+    
+    color: white;
+    background-color: transparent;
+
+}
+.footer-icon{
+    margin-left: auto;
+    padding: 0px 50px;
+    background-color: transparent;
+}
+.footer-div{
+    display: flex;
+    background-color: transparent;
+}
+.bottom-info, .text7{
+    font-size: 14px;
+}
+.footer-nav-ul-li-a{
+    color: white;
+    font-size: 14px;
+}
